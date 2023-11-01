@@ -8,7 +8,7 @@ function PortfolioScreen() {
         Linking.openURL('https://github.com/SidneyRodrigo')};
 
     const handleLink2Press = () => {
-        Linking.openURL('https://www.linkedin.com/in/sidney-rodrigo-da-paixão-silvestre-824582251/');    
+        Linking.openURL('https://www.linkedin.com/in/sidney-silvestre-824582251/');    
     };
 
     return(
